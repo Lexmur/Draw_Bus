@@ -1,0 +1,30 @@
+﻿  GetConlWin.cpp
+  main.cpp
+C:\c_code\Laboratornaya_Draw_Bus\Laboratornaya_Draw_Bus\main.cpp(51,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Point.cpp
+  TBus.cpp
+  TBusWindow.cpp
+C:\c_code\Laboratornaya_Draw_Bus\Laboratornaya_Draw_Bus\TBusWindow.cpp(42,11): warning C4838: Преобразование из "double" в "LONG" требует сужающего преобразования.
+C:\c_code\Laboratornaya_Draw_Bus\Laboratornaya_Draw_Bus\TBusWindow.cpp(42,11): warning C4244: инициализация: преобразование "double" в "LONG", возможна потеря данных
+C:\c_code\Laboratornaya_Draw_Bus\Laboratornaya_Draw_Bus\TBusWindow.cpp(43,11): warning C4838: Преобразование из "double" в "LONG" требует сужающего преобразования.
+C:\c_code\Laboratornaya_Draw_Bus\Laboratornaya_Draw_Bus\TBusWindow.cpp(43,11): warning C4244: инициализация: преобразование "double" в "LONG", возможна потеря данных
+C:\c_code\Laboratornaya_Draw_Bus\Laboratornaya_Draw_Bus\TBusWindow.cpp(59,11): warning C4838: Преобразование из "double" в "LONG" требует сужающего преобразования.
+C:\c_code\Laboratornaya_Draw_Bus\Laboratornaya_Draw_Bus\TBusWindow.cpp(59,11): warning C4244: инициализация: преобразование "double" в "LONG", возможна потеря данных
+C:\c_code\Laboratornaya_Draw_Bus\Laboratornaya_Draw_Bus\TBusWindow.cpp(60,11): warning C4838: Преобразование из "double" в "LONG" требует сужающего преобразования.
+C:\c_code\Laboratornaya_Draw_Bus\Laboratornaya_Draw_Bus\TBusWindow.cpp(60,11): warning C4244: инициализация: преобразование "double" в "LONG", возможна потеря данных
+  TDamageBus.cpp
+C:\c_code\Laboratornaya_Draw_Bus\Laboratornaya_Draw_Bus\TDamageBus.cpp(21,22): warning C4838: Преобразование из "double" в "LONG" требует сужающего преобразования.
+C:\c_code\Laboratornaya_Draw_Bus\Laboratornaya_Draw_Bus\TDamageBus.cpp(21,22): warning C4244: инициализация: преобразование "double" в "LONG", возможна потеря данных
+C:\c_code\Laboratornaya_Draw_Bus\Laboratornaya_Draw_Bus\TDamageBus.cpp(22,22): warning C4838: Преобразование из "double" в "LONG" требует сужающего преобразования.
+C:\c_code\Laboratornaya_Draw_Bus\Laboratornaya_Draw_Bus\TDamageBus.cpp(22,22): warning C4244: инициализация: преобразование "double" в "LONG", возможна потеря данных
+C:\c_code\Laboratornaya_Draw_Bus\Laboratornaya_Draw_Bus\TDamageBus.cpp(43,22): warning C4838: Преобразование из "double" в "LONG" требует сужающего преобразования.
+C:\c_code\Laboratornaya_Draw_Bus\Laboratornaya_Draw_Bus\TDamageBus.cpp(43,22): warning C4244: инициализация: преобразование "double" в "LONG", возможна потеря данных
+C:\c_code\Laboratornaya_Draw_Bus\Laboratornaya_Draw_Bus\TDamageBus.cpp(44,22): warning C4838: Преобразование из "double" в "LONG" требует сужающего преобразования.
+C:\c_code\Laboratornaya_Draw_Bus\Laboratornaya_Draw_Bus\TDamageBus.cpp(44,22): warning C4244: инициализация: преобразование "double" в "LONG", возможна потеря данных
+  THighBus.cpp
+  TLongBus.cpp
+  TBusWindow.h
+  TSomeThing.cpp
+  Создание кода...
+x64\Debug\TBusWindow.obj : warning LNK4042: объект указан более одного раза; лишние не учитываются
+  Laboratornaya_Draw_Bus.vcxproj -> C:\c_code\Laboratornaya_Draw_Bus\x64\Debug\Laboratornaya_Draw_Bus.exe

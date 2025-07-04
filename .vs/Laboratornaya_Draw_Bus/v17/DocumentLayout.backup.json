@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c_code\\Laboratornaya_Draw_Bus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C38EA1B-4606-4C89-846A-17AC84AB3E90}|Laboratornaya_Draw_Bus\\Laboratornaya_Draw_Bus.vcxproj|C:\\c_code\\Laboratornaya_Draw_Bus\\Laboratornaya_Draw_Bus\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C38EA1B-4606-4C89-846A-17AC84AB3E90}|Laboratornaya_Draw_Bus\\Laboratornaya_Draw_Bus.vcxproj|solutionrelative:Laboratornaya_Draw_Bus\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\c_code\\Laboratornaya_Draw_Bus\\Laboratornaya_Draw_Bus\\main.cpp",
+              "RelativeDocumentMoniker": "Laboratornaya_Draw_Bus\\main.cpp",
+              "ToolTip": "C:\\c_code\\Laboratornaya_Draw_Bus\\Laboratornaya_Draw_Bus\\main.cpp",
+              "RelativeToolTip": "Laboratornaya_Draw_Bus\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-06T08:05:49.576Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BusWindow" Collapsed="true">
+    <Position X="15.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAEAAAAAAAAAAEAACAAAAAAAAAAAA=</HashCode>
+      <FileName>TBusWindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusWheel" Collapsed="true">
+    <Position X="17.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAIEAACAAAAAAAAAAAA=</HashCode>
+      <FileName>TBusWindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusBody" Collapsed="true">
+    <Position X="19.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAEAAAAAAAAAAEAACAAAAAAAAAAAA=</HashCode>
+      <FileName>TBusWindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Location" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAYAAAIAAAAAAAAAAAAAYAAAAAAAYAA=</HashCode>
+      <FileName>Point.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Point" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAACEAAAAAAAAAAMAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Point.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bus" Collapsed="true">
+    <Position X="10.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAaICgCAEAAAAAAAEEAAAAIBAgAMAACgAABAAAAAAAA=</HashCode>
+      <FileName>TBus.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IBus" Collapsed="true">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAEAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>TBus.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bus2" Collapsed="true">
+    <Position X="5.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TBus.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DamageBus" Collapsed="true">
+    <Position X="8.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>TDamageBus.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DamageBus2" Collapsed="true">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TDamageBus.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HighBus" Collapsed="true">
+    <Position X="13" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>THighBus.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HighBus2" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>THighBus.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LongBus" Collapsed="true">
+    <Position X="10.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgIAAAAAAAAAA=</HashCode>
+      <FileName>TLongBus.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LongBus2" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>TLongBus.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SomeThing" Collapsed="true">
+    <Position X="17.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQMAACAAAAAAAAAEAAAAAAEAAAMAAAAAABAAAAAAAA=</HashCode>
+      <FileName>TSomeThing.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Color" Collapsed="true">
+    <Position X="22.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAQAAAAA=</HashCode>
+      <FileName>Color.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
